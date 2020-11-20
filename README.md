@@ -1,4 +1,4 @@
-# EDA_Project_Analysis
+# EDA(Retail)_Project_Analysis_Task 2
 
 Dataset: https://bit.ly/3i4rbWl
 
